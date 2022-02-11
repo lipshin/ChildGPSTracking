@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "904830637128",
+    "firebase_url": "https://child-monitoring-505a3-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "child-monitoring-505a3",
+    "storage_bucket": "child-monitoring-505a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904830637128:android:89d4c11ecd375565edb47d",
+        "android_client_info": {
+          "package_name": "com.example.ChildGPSTracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904830637128-no01j69nrdjpourp7mamkusvd9atfup7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByS34dwQcGG8iYHa3MQmRa37PvinWfaBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904830637128-no01j69nrdjpourp7mamkusvd9atfup7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
